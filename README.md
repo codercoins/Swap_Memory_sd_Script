@@ -22,19 +22,19 @@ This Bash script automates the creation of a swap file on a specified USB path, 
 2. Navigate to the script directory:
 
     ```bash
-    cd swap-file-script
+    cd Swap_Memory_sd_Script
     ```
 
 3. Make the script executable:
 
     ```bash
-    chmod +x create_swap_file.sh
+    chmod +x SwapVram.sh
     ```
 
 4. Run the script as root:
 
     ```bash
-    sudo ./create_swap_file.sh
+    sudo ./SwapVram.sh
     ```
 
 5. Follow the prompts to enter the swap file name and size.
